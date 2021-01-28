@@ -1,1 +1,5 @@
-Modifico el archivo
+Modifico el archivo:
+	color de fondo
+	negrita
+	color de letra
+	
